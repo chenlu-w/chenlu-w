@@ -21,6 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chenlu-w&show_icons=true&locale=en&layout=compact" alt="chenlu-w" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chenlu-w&show_icons=true&locale=en" alt="chenlu-w" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chenlu-w&" alt="chenlu-w" /></p>
